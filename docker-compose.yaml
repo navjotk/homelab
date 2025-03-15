@@ -37,7 +37,7 @@ include:
     - apps/watchtower.yaml #  Watchtower (Container Updating)
     # - apps/postgres.yaml # PostgreSQL (Shared Database)
     # - apps/sftpgo.yaml # SFTPGo (File Management)
-    # - apps/pihole.yaml # Pi-hole (DNS Ad-Blocking)
+    - apps/pihole.yaml # Pi-hole (DNS Ad-Blocking)
     # - apps/portainer.yaml # Portainer (Container Management)
 
     #############################################################################
